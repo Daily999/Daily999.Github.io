@@ -1,0 +1,19 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "RelivePkg",
+    "PackageVersion": "2025-07-27-65",
+    "Wrappers": [
+        {
+            "BundleGUID": "306621eabe41b46bfea1f60b94baa3ed",
+            "FileName": "306621eabe41b46bfea1f60b94baa3ed.bundle"
+        },
+        {
+            "BundleGUID": "a70498d84649accb4af04fb654b101bb",
+            "FileName": "a70498d84649accb4af04fb654b101bb.bundle"
+        },
+        {
+            "BundleGUID": "a86f0e283a37e274f32343af83066a49",
+            "FileName": "a86f0e283a37e274f32343af83066a49.bundle"
+        }
+    ]
+}

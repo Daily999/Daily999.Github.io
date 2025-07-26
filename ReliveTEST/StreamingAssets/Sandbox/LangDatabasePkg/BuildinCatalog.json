@@ -1,0 +1,11 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "LangDatabasePkg",
+    "PackageVersion": "2025-07-27-65",
+    "Wrappers": [
+        {
+            "BundleGUID": "829c8d1de0bae5617d1da1d61ae437b8",
+            "FileName": "829c8d1de0bae5617d1da1d61ae437b8.bundle"
+        }
+    ]
+}
