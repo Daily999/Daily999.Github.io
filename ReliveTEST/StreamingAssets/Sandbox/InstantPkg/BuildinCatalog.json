@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "InstantPkg",
-    "PackageVersion": "2025-07-27-65",
+    "PackageVersion": "2025-08-20-1331",
     "Wrappers": [
         {
             "BundleGUID": "0bdd4642e8bccc2a714a1a210dfb94cb",

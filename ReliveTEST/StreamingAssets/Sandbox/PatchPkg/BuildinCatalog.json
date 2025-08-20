@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "PatchPkg",
-    "PackageVersion": "2025-07-27-63",
+    "PackageVersion": "2025-08-20-1330",
     "Wrappers": [
         {
             "BundleGUID": "00a94cd0c7cdf42a037c077416dd4af7",
