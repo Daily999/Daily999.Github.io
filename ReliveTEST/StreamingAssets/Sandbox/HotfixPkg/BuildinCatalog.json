@@ -1,15 +1,15 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "HotfixPkg",
-    "PackageVersion": "2025-08-20-1330",
+    "PackageVersion": "2025-08-31-1317",
     "Wrappers": [
         {
             "BundleGUID": "3223325a6bc505494ca58b6dd22b1bea",
             "FileName": "3223325a6bc505494ca58b6dd22b1bea.bundle"
         },
         {
-            "BundleGUID": "59a6e7236e2739985753f66e990efd5b",
-            "FileName": "59a6e7236e2739985753f66e990efd5b.bundle"
+            "BundleGUID": "5f7fae006b4b6105398f7fe0ff089d7c",
+            "FileName": "5f7fae006b4b6105398f7fe0ff089d7c.bundle"
         },
         {
             "BundleGUID": "6b0f510c8abb5a87bc7b90b67d567139",
