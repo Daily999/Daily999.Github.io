@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "GameDatabasePkg",
-    "PackageVersion": "2025-08-31-1317",
+    "PackageVersion": "2025-09-10-1368",
     "Wrappers": [
         {
             "BundleGUID": "0d71abd7e29aed707c0d958a9fc1a797",
