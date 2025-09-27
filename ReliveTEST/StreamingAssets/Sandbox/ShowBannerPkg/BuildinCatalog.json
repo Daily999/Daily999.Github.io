@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "ShowBannerPkg",
-    "PackageVersion": "2025-09-27-1044",
+    "PackageVersion": "2025-09-27-1111",
     "Wrappers": [
         {
             "BundleGUID": "00045e1c276a798ad581268343170638",
