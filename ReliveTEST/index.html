@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="TemplateData/style.css">
 
     <!-- Agora SDK Scripts -->
-    <script src="AgoraWebSDK/js/plugins/AgoraRTC_N-4.23.3.js"></script>
+    <script src="AgoraWebSDK/js/plugins/AgoraRTC_N-4.24.0.js"></script>
     <script src="AgoraWebSDK/js/plugins/agora-rtm-2.2.2.min.js"></script>
 
     <!-- Custom Agora Scripts (Implements) -->
@@ -23,6 +23,7 @@
     <script src="GameLiftWebSDK/js/gameLiftWebProvider.js"></script>
 
     <!-- JSExtensions Common Scripts -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script src="JSExtensions/js/Common/bootstrap.bundle.min.js"></script>
 
     <!-- Custom JSExtensions Scripts -->
@@ -49,11 +50,11 @@
       var unityInstance;
       const hideFullScreenButton = "1";
       const buildUrl = "Build";
-      const loaderUrl = buildUrl + "/TEST.loader.js";
+      const loaderUrl = buildUrl + "/test.loader.js";
       const config = {
-        dataUrl: buildUrl + "/TEST.data.unityweb",
-        frameworkUrl: buildUrl + "/TEST.framework.js.unityweb",
-        codeUrl: buildUrl + "/TEST.wasm.unityweb",
+        dataUrl: buildUrl + "/test.data.unityweb",
+        frameworkUrl: buildUrl + "/test.framework.js.unityweb",
+        codeUrl: buildUrl + "/test.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "viveoriginals",
         productName: "beatday",

@@ -1,7 +1,7 @@
 {
     "FileVersion": "1.0.0",
     "PackageName": "GameDatabasePkg",
-    "PackageVersion": "2025-09-10-1368",
+    "PackageVersion": "2025-09-27-1020",
     "Wrappers": [
         {
             "BundleGUID": "0d71abd7e29aed707c0d958a9fc1a797",
@@ -44,8 +44,8 @@
             "FileName": "595a8706e1c154dff45143c4c29623db.bundle"
         },
         {
-            "BundleGUID": "5a762e63f61b8011d53654f190ef79cc",
-            "FileName": "5a762e63f61b8011d53654f190ef79cc.bundle"
+            "BundleGUID": "61da5d121190e9e60babff8da7b7ce4a",
+            "FileName": "61da5d121190e9e60babff8da7b7ce4a.bundle"
         },
         {
             "BundleGUID": "71cd1a120aae0298df44af03fee12d73",
@@ -92,6 +92,10 @@
             "FileName": "b2a84ada043851375cc94abe084ebaaa.bundle"
         },
         {
+            "BundleGUID": "b73f3da033bc29540c4dd610ebfb1a70",
+            "FileName": "b73f3da033bc29540c4dd610ebfb1a70.bundle"
+        },
+        {
             "BundleGUID": "b8e7ed89ef72bc907dc9d6c973eb5fe2",
             "FileName": "b8e7ed89ef72bc907dc9d6c973eb5fe2.bundle"
         },
@@ -108,12 +112,12 @@
             "FileName": "c330ef0235ac50bc4e504dcb5207477a.bundle"
         },
         {
-            "BundleGUID": "c9cdecf3269256da26bf0344346dda27",
-            "FileName": "c9cdecf3269256da26bf0344346dda27.bundle"
-        },
-        {
             "BundleGUID": "cc121b070ea8e3bbca4a33cacb6b1973",
             "FileName": "cc121b070ea8e3bbca4a33cacb6b1973.bundle"
+        },
+        {
+            "BundleGUID": "cc71b468e931cee1497215e3a7f30110",
+            "FileName": "cc71b468e931cee1497215e3a7f30110.bundle"
         },
         {
             "BundleGUID": "cf39679a742a7454d0161d106f0694f9",
@@ -130,10 +134,6 @@
         {
             "BundleGUID": "da45f3f8667a475c73558635468bd214",
             "FileName": "da45f3f8667a475c73558635468bd214.bundle"
-        },
-        {
-            "BundleGUID": "e4ed96fb681a1fc5b3f96a9898ffda7e",
-            "FileName": "e4ed96fb681a1fc5b3f96a9898ffda7e.bundle"
         },
         {
             "BundleGUID": "eefbd116127ed7e5e4fe4c9c484616c5",
