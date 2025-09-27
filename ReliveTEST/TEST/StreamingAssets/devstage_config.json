@@ -1,0 +1,23 @@
+// newtonsoft.json 支援註解
+// 將此檔案(devstage_config)放在sandbox目錄下，並定義DEV_STAGE，就會不走Login流程，直接切換到指定stage(sid)
+// FastDevStage: 支援兩種模式，如果有在Hierarchy放了除了Main.unity之外的檔案，會以已開場景進行登入表演流程，
+// 如果只有一個Main.unity會根據指定的showid，進如表演，請先於表演表定義
+{
+	"ReadMe": "將此檔案(devstage_config)放在streamasset目錄下，並定義DEV_STAGE，就會不走Login流程，直接切換到指定stage(sid)",
+	">>>>>>>>>>>>>>>>": "DEV_STAGE共通",
+	"-------------------": "需要載入package/dlc",
+	"packages": ["RelivePkg"],	
+	"-------------------": "Stage uid",
+	"sid": 101,
+	"-------------------": "Stage Name",
+	"stage": "FastDevStage",
+	">>>>>>>>>>>>>>>>": "以下為FastDev專屬",
+	// uid: 使用者登入帳號 xxx@
+	"uid": "relive@beatday.com",
+	// password: 密碼
+	"password": "Test123456",
+	// showid: 如果showid不為空，使用表演模式，根據表演表進行加載流程
+	"showid": "Test",
+	
+	">>>>>>>>>>>>>>>>>>>>>":""
+}
