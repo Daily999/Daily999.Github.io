@@ -1,0 +1,55 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "RelivePkg",
+    "PackageVersion": "2025-09-27-1112",
+    "Wrappers": [
+        {
+            "BundleGUID": "069867a82b86979a2ae2867f4349fb3c",
+            "FileName": "069867a82b86979a2ae2867f4349fb3c.bundle"
+        },
+        {
+            "BundleGUID": "1599afaa8d887c7aa24300d7940d10ee",
+            "FileName": "1599afaa8d887c7aa24300d7940d10ee.bundle"
+        },
+        {
+            "BundleGUID": "1ea3864341e6e1c27c4b6d320d6e9dfc",
+            "FileName": "1ea3864341e6e1c27c4b6d320d6e9dfc.bundle"
+        },
+        {
+            "BundleGUID": "337188c1efa0c71f4cb87ce1efc51a83",
+            "FileName": "337188c1efa0c71f4cb87ce1efc51a83.bundle"
+        },
+        {
+            "BundleGUID": "4b868eee33e05702d0470f306c43f3a1",
+            "FileName": "4b868eee33e05702d0470f306c43f3a1.bundle"
+        },
+        {
+            "BundleGUID": "521ee116d78bc4017335e1679552c987",
+            "FileName": "521ee116d78bc4017335e1679552c987.bundle"
+        },
+        {
+            "BundleGUID": "7670f26a5fe838aeb22115fc54b59306",
+            "FileName": "7670f26a5fe838aeb22115fc54b59306.bundle"
+        },
+        {
+            "BundleGUID": "851209d8c344e198c3cada49c89d94c8",
+            "FileName": "851209d8c344e198c3cada49c89d94c8.bundle"
+        },
+        {
+            "BundleGUID": "8e871f24750083cbc1ec237e566288ba",
+            "FileName": "8e871f24750083cbc1ec237e566288ba.bundle"
+        },
+        {
+            "BundleGUID": "93b791c4cb69762891637301270c55f5",
+            "FileName": "93b791c4cb69762891637301270c55f5.bundle"
+        },
+        {
+            "BundleGUID": "be4b6849dde57d08fb5da4889be6f992",
+            "FileName": "be4b6849dde57d08fb5da4889be6f992.bundle"
+        },
+        {
+            "BundleGUID": "d57f7e3abc933ca952f839025ba914ef",
+            "FileName": "d57f7e3abc933ca952f839025ba914ef.bundle"
+        }
+    ]
+}
